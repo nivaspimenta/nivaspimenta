@@ -1,8 +1,11 @@
 
 👋 Hi, I’m @nivaspimenta
 
-- 👀 I’m interested in Game Development 🎮
+- I’m interested in Game Development 🎮
 - 🌱 I’m currently learning c++
+
+
+📁 Uploading ...
 
 <!---
 nivaspimenta/nivaspimenta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
