@@ -1,10 +1,4 @@
 
-👋 Hi, I’m @nivaspimenta
-
-- I’m interested in Game Development 🎮
-- 🌱 I’m currently learning c++
-
-
 📁 Uploading ...
 
 <!---
